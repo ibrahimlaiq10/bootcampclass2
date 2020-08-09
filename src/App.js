@@ -10,7 +10,7 @@ function App() {
         </p>
         <a href='https://ibrahimlaiq10.github.io/portfolio/'
         >
-          My Portfolio
+        Check my Portfolio
         </a>
       
     </div>
