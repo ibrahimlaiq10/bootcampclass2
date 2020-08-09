@@ -5,9 +5,9 @@ function App() {
   return (
     <div className="App">
       
-        <p>
+        <h1>
          Hi i'm Ibrahim Laiq
-        </p>
+        </h1>
         <a href='https://ibrahimlaiq10.github.io/portfolio/'
         >
         Check my Portfolio
